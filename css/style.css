@@ -1,0 +1,91 @@
+.header-bar {
+    padding-top: 30px;
+    margin: none;
+    background-color: rgb(78, 160, 255);
+    background-image: url(../img/pattern.png);
+    background-size: 30%;
+}
+
+.header-img {
+    width: 200px;
+}
+
+.section-title {
+    text-spacing-trim: space-first;
+}
+
+.grey-bold-text {
+    color: grey;
+    font-size: 12pt;
+    font-weight: 550;
+
+}
+
+a {
+    color: rgb(46, 192, 255);
+    text-decoration: none;
+}
+
+.small-grey-text {
+    color: grey;
+    font-size: 10pt;
+
+}
+
+.small-black-text {
+    font-size: 10pt;
+
+}
+
+.yellow-text {
+    background-color: yellow;
+
+}
+
+.table {
+    margin: none;
+    text-align: left;
+    border-spacing: 0cap;
+
+}
+
+.blue-row {
+    background-color: rgb(78, 160, 255);
+    margin: none;
+    color: white;
+}
+
+
+.light-blue-row {
+    background-color: rgb(175, 234, 252);
+    margin: none;
+
+}
+
+.img-background1 {
+    background-image: url(../img/monitor.jpg);
+    width: 225px;
+    height: 150px;
+    color: white;
+    text-indent: 1cap;
+    padding: 1px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    background-size: contain;
+}
+
+.img-background2 {
+    background-image: url(../img/graph.jpg);
+    width: 225px;
+    height: 150px;
+    color: white;
+    text-indent: 1cap;
+    padding: 1px;
+    font-weight: bold;
+    background-size: contain;
+
+}
+
+.padding-basic {
+    padding-bottom: 10px;
+}
